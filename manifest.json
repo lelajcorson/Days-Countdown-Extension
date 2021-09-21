@@ -1,0 +1,12 @@
+{
+    "name": "Days Countdown",
+    "description": "Count down the days until an event",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "count.html"
+    },
+    "background": {
+        "service_worker": "background.js"
+    }
+}
