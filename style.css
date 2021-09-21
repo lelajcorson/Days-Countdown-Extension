@@ -1,3 +1,9 @@
 #text2{
     display: none;
 }
+
+body{
+    width: auto;
+    height: auto;
+    background: red;
+}
